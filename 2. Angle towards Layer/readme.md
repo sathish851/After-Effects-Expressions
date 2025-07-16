@@ -43,7 +43,7 @@ dd + 90;
 
 
 <p align="center">
-  <img src="/2. Angle towards Layer/assets/toward_a_layer.gif" alt="Demo GIF" />
+  <img src="/assets/toward_a_layer.gif" alt="Demo GIF" />
 </p>
 
 <!-- Replace this with your actual preview GIF or image -->
